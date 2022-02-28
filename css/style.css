@@ -233,6 +233,9 @@ header .navbar li a:hover{
     font-size: 2rem;
     color: #fff;
 }
+.about .row .counter .box:hover{
+    transform: scale(1.1);
+}
 
 .education .box-container{
     display: flex;
